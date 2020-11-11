@@ -1,0 +1,3 @@
+# FindJudge
+
+Uses Adjacency List
